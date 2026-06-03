@@ -1,4 +1,3 @@
--->
 # Hi there 👋 I'm Ahsan Iqbal
 
 🚀 Full-Stack Developer | Django • FastAPI • React • Node.js • AI Integration
